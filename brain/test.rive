@@ -1,0 +1,24 @@
+! version = 2.0
+
++ hello
+- Hello human!
+
++ my name is *
+- <set name=<formal>>Nice to meet you, <get name>!
+
++ (what is my name|who am i)
+- You're <get name>, right?
+
++ (What are you?|Who are you?)
+- I’m a chatbot!  Designed to teach kids about Taiwanese culture, such as holidays and festivals.
+
++ How are you made?
+- I was created in Python, using Rivescript for my writing, and wit.ai for API’s to hook into the different technologies.  I’m an example of a “Rule-Based-Chatbot,” which is different from AI or self-learning.  Although I do have some AI functionalities, such as searching databases.
+
++ Why use rule-based?
+- Because my purpose is a teacher bot, I need to make sure that everything I say is good quality!  So you won’t see any weirdness or strange languages, which is a problem with other bots.  This is very important, because I am meant to chat with kids!   Or perhaps kids at heart.
+
+
++ *
+- I don't have a reply for that.
+- Try asking that a different way.
